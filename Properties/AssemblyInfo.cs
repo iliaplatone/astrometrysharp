@@ -1,0 +1,11 @@
+﻿using System.Reflection;
+[assembly: AssemblyTitle("Astrometry")]
+[assembly: AssemblyDescription("Astrometry.net chroot and wrapper")]
+[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyCompany("Ilia Platone")]
+[assembly: AssemblyProduct("Astrometry")]
+[assembly: AssemblyCopyright("Copyright ©  2015")]
+[assembly: AssemblyTrademark("Ilia Platone")]
+[assembly: AssemblyCulture("")]
+[assembly: AssemblyVersion("1.0.0.0")]
+[assembly: AssemblyFileVersion("1.0.0.0")]

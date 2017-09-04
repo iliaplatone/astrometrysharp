@@ -1,0 +1,4 @@
+#!/bin/sh
+mount -o bind "${@: -1}" /etc/astrometry/data/
+solve-field.exe "${@: 1:$(($#-1))}"
+umount /etc/astrometry/data/
